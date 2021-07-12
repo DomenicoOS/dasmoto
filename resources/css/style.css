@@ -37,3 +37,14 @@ h1, h2, h3, span {
 .blue {
     color: blue;
 }
+
+figcaption {
+    padding-left: 0.45em;
+}
+
+
+.main-content{
+ 
+    display: flex;
+    
+}
